@@ -1,0 +1,84 @@
+{
+  "rule": "twlvs-rule-v1",
+  "note": "Test data only. These ANU values are public and must never be used for a real game.",
+  "games": [
+    {
+      "game_id": "1-20261122-001",
+      "anu_value": "4617093f1e7d86d18bac15d1342c9f4af875da21",
+      "anu_sha256": "edde1d7aba9bf746a32fd8802bc0946ccf4a0ef3a14ca1e20f1a97ae3460d2b6",
+      "quarters": [
+        {
+          "quarter": 1,
+          "round": 34177033,
+          "drand_randomness": "aec224cda8170d4d703c304d6beefc239a132736efe1cc6bd4d5949fdf50b62d",
+          "home": 1,
+          "away": 2
+        },
+        {
+          "quarter": 2,
+          "round": 34177053,
+          "drand_randomness": "2d1058aa9e46f831f082270befcf8ce44da1e72bdd30be5fe9a27d4593c1a73e",
+          "home": 1,
+          "away": 0
+        },
+        {
+          "quarter": 3,
+          "round": 34177073,
+          "drand_randomness": "629745a8a6ae384539110184978ffde81bc7d80b9973824a03e6ac38ad5ac9ac",
+          "home": 3,
+          "away": 2
+        },
+        {
+          "quarter": 4,
+          "round": 34177093,
+          "drand_randomness": "a9014412c329a6061dfb5e4417a42899e99a654586b458c23c16979f585a7f0a",
+          "home": 3,
+          "away": 1
+        }
+      ],
+      "final": {
+        "home": 8,
+        "away": 5
+      }
+    },
+    {
+      "game_id": "1-20261122-288",
+      "anu_value": "d3f8b6d32380bf51b5d95539777d7fd2e7524a6a",
+      "anu_sha256": "3f66f50258bb1b6c6266a227e9b5965cda1b93760e6c14f01dfc8f63907a92da",
+      "quarters": [
+        {
+          "quarter": 1,
+          "round": 34205733,
+          "drand_randomness": "e37bfabaf7f0d2b1b9378df809835623ec05e30d8d175f551adf7a063120c417",
+          "home": 3,
+          "away": 3
+        },
+        {
+          "quarter": 2,
+          "round": 34205753,
+          "drand_randomness": "f34c96be7af10742e74f6a3e54c49e6d31752a28340afb9516af894ea5c0bcf4",
+          "home": 1,
+          "away": 3
+        },
+        {
+          "quarter": 3,
+          "round": 34205773,
+          "drand_randomness": "2bc99341db9a76e5638b8d4c8b3b3ae529871c52755c615c2ad5cf2eb25c5b29",
+          "home": 0,
+          "away": 3
+        },
+        {
+          "quarter": 4,
+          "round": 34205793,
+          "drand_randomness": "5698f24ee48642af1a52f7ede62fab596e302696fdadd5407fe5cc1bcbc479f7",
+          "home": 3,
+          "away": 0
+        }
+      ],
+      "final": {
+        "home": 7,
+        "away": 9
+      }
+    }
+  ]
+}
